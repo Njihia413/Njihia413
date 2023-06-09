@@ -4,6 +4,8 @@
   </a>
 </h1>
 <h3>Connect with me:</h3>
+<a href="https://www.linkedin.com/in/maureen-njihia-9812931ab"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>
+<a href="https://instagram.com/njihi_413"><img height="32" width="32" src="https://cdn.simpleicons.org/instagram/0A66C2" /></a>
 <a href="https://twitter.com/Njihia413"><img height="32" width="32" src="https://cdn.simpleicons.org/twitter/1DA1F2" /></a>
 <!--
 **Njihia413/Njihia413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
