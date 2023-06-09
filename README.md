@@ -37,6 +37,7 @@
 "></code>
 <code><img title="Figma" height="25" src="https://icons8.com/icon/512/figma.png"></code>
 </p>
+![image](https://github.com/Njihia413/Njihia413/assets/70540294/264ae42e-7a42-4a5d-b465-0977f719a17f)
 
 <!--
 **Njihia413/Njihia413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
