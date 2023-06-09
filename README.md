@@ -47,9 +47,9 @@
    &nbsp;&nbsp;
   <img title="C" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/89b1f7fc-8cfe-4bb0-931b-7e485e5589e4">
    &nbsp;&nbsp;
-  <img title="C++" height="45" width="45" src="https://cdn.simpleicons.org/c++/E61845">
+  <img title="C++" height="40" width="40" src="https://cdn.simpleicons.org/c++/E61845">
    &nbsp;&nbsp;
-<img title="Figma"height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/ec2b49ec-4073-432e-a46a-98ab933041c6">
+<img title="Figma"height="40" width="40" src="https://github.com/Njihia413/Njihia413/assets/70540294/ec2b49ec-4073-432e-a46a-98ab933041c6">
 </p>
 
 ### :fire: My Stats :
