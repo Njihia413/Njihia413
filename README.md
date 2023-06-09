@@ -3,11 +3,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&size=30&pause=1000&color=F73D61&center=true&vCenter=true&width=435&lines=Nice+to+see+you+👋;I'm+Maureen😊" alt="Typing SVG" />
   </a>
 </h1>
-<h3>About me:</h3>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
-  <iframe src="https://giphy.com/embed/NgurY1o4z080Jfoyzw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-</div>
 
+<h3>About me:</h3>
 - 🔭 Software Developer based in Nairobi, Kenya
 <br>
 - 🌱 I’m currently learning everything 🤣
