@@ -24,17 +24,17 @@
 <h2>Skill Set</h2><br>
 <p>
 <img title="HTML5" height="45" width="45" src="https://cdn.simpleicons.org/html5/E34F26">
-<img title="CSS3" height="32" src="https://img.icons8.com/color/512/css3.png">
-<img title="Javascript" height="32" src="https://img.icons8.com/color/512/javascript.png">
-<img title="React" height="32" src="https://github.com/Njihia413/Njihia413/assets/70540294/2f9f06b4-432e-44f8-9db4-1895c2681e27">
-<img title="Bootstrap" height="32" src="https://img.icons8.com/color/512/bootstrap.png">
-<img title="Ruby" height="32" src="https://img.icons8.com/color/512/ruby-programming-language.png">
-<img title="Ruby on Rails" height="32" src="https://img.icons8.com/windows/512/ruby-on-rails.png">
-<img title="MySQL" height="32" src="https://img.icons8.com/fluency/512/mysql-logo.png">
-<img title="Git" height="32" src="https://img.icons8.com/color/512/git.png">
-<img title="Python" height="32" src="https://github.com/Njihia413/Njihia413/assets/70540294/5d32bef0-3f0f-4b30-80d6-a846fcabc1e0">
+<img title="CSS3" height="45" width="45" src="https://cdn.simpleicons.org/css3/1572B6">
+<img title="Javascript" height="45" width="45" src="https://cdn.simpleicons.org/javascript/F7DF1E">
+<img title="React" height="45" width="45" src="https://cdn.simpleicons.org/react/61DAFB">
+<img title="Bootstrap" height="45" width="45" src="https://cdn.simpleicons.org/bootstrap/7952B3">
+<img title="Ruby" height="45" width="45" src="https://cdn.simpleicons.org/ruby/CC342D">
+<img title="Ruby on Rails" height="45" width="45" src="https://cdn.simpleicons.org/rubyonrails/CC0000">
+<img title="MySQL" height="45" width="45" src="https://cdn.simpleicons.org/mysql/4479A1">
+<img title="Git" height="45" width="45" src="https://cdn.simpleicons.org/git/F05032">
+<img title="Python" height="45" width="45" src="https://cdn.simpleicons.org/python/3776AB">
 </code>
-<img title="Figma" height="32" src="https://github.com/Njihia413/Njihia413/assets/70540294/ce84b4cd-2376-4bf7-bd2d-bed53264590a">
+<img title="Figma"height="45" width="45" src="https://cdn.simpleicons.org/figma/3776AB">
 </p>
 
 ### :fire: My Stats :
