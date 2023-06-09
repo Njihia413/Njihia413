@@ -21,18 +21,18 @@
 &nbsp;&nbsp;
 <a href="https://twitter.com/Njihia413"><img height="32" width="32" src="https://cdn.simpleicons.org/twitter/1DA1F2" /></a>
 
-<h2>🔥 Skill Set 🔥</h2><br>
-<p align="center">
-<code><img title="HTML5" height="25" src="https://github.com/iamkibeh/HalemoGPA/raw/main/images/html5.svg"></code>
-<code><img title="CSS3" height="25" src="https://img.icons8.com/color/512/css3.png"></code>
-<code><img title="Javascript" height="25" src="https://img.icons8.com/color/512/javascript.png"></code>
-<code><img title="React" height="25" src="https://github.com/Njihia413/Njihia413/assets/70540294/2f9f06b4-432e-44f8-9db4-1895c2681e27"></code>
-<code><img title="Bootstrap" height="25" src="https://img.icons8.com/color/512/bootstrap.png"></code>
-<code><img title="Ruby" height="25" src="https://img.icons8.com/color/512/ruby-programming-language.png"></code>
-<code><img title="Ruby on Rails" height="25" src="https://img.icons8.com/windows/512/ruby-on-rails.png"></code>
-<code><img title="MySQL" height="25" src="https://img.icons8.com/fluency/512/mysql-logo.png"></code>
-<code><img title="Git" height="25" src="https://img.icons8.com/color/512/git.png"></code>
-<code><img title="Python" height="25" src="https://github.com/Njihia413/Njihia413/assets/70540294/5d32bef0-3f0f-4b30-80d6-a846fcabc1e0">
+<h2>Skill Set</h2><br>
+<p>
+<code><img title="HTML5" height="25" src="https://github.com/iamkibeh/HalemoGPA/raw/main/images/html5.svg" style="padding-right:10px;"></code>
+<code><img title="CSS3" height="25" src="https://img.icons8.com/color/512/css3.png" style="padding-right:10px;"></code>
+<code><img title="Javascript" height="25" src="https://img.icons8.com/color/512/javascript.png" style="padding-right:10px;"></code>
+<code><img title="React" height="25" src="https://github.com/Njihia413/Njihia413/assets/70540294/2f9f06b4-432e-44f8-9db4-1895c2681e27" style="padding-right:10px;"></code>
+<code><img title="Bootstrap" height="25" src="https://img.icons8.com/color/512/bootstrap.png" style="padding-right:10px;"></code>
+<code><img title="Ruby" height="25" src="https://img.icons8.com/color/512/ruby-programming-language.png" style="padding-right:10px;"></code>
+<code><img title="Ruby on Rails" height="25" src="https://img.icons8.com/windows/512/ruby-on-rails.png" style="padding-right:10px;"></code>
+<code><img title="MySQL" height="25" src="https://img.icons8.com/fluency/512/mysql-logo.png" style="padding-right:10px;"></code>
+<code><img title="Git" height="25" src="https://img.icons8.com/color/512/git.png" style="padding-right:10px;"></code>
+<code><img title="Python" height="25" src="https://github.com/Njihia413/Njihia413/assets/70540294/5d32bef0-3f0f-4b30-80d6-a846fcabc1e0" style="padding-right:10px;">
 </code>
 <code><img title="Figma" height="25" src="https://github.com/Njihia413/Njihia413/assets/70540294/ce84b4cd-2376-4bf7-bd2d-bed53264590a"></code>
 </p>
