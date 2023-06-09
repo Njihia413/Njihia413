@@ -21,23 +21,23 @@
 &nbsp;&nbsp;
 <a href="https://twitter.com/Njihia413"><img height="32" width="32" src="https://cdn.simpleicons.org/twitter/1DA1F2" /></a>
 
-<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2><br>
+<h2>🔥 Skill Set 🔥</h2><br>
 <p align="center">
 <code><img title="HTML5" height="25" src="https://github.com/iamkibeh/HalemoGPA/raw/main/images/html5.svg"></code>
 <code><img title="CSS3" height="25" src="https://img.icons8.com/color/512/css3.png"></code>
 <code><img title="Javascript" height="25" src="https://img.icons8.com/color/512/javascript.png"></code>
-<code><img title="React" height="25" src="![image](https://github.com/Njihia413/Njihia413/assets/70540294/33bc4e18-9c95-4bc4-b36f-1d56a0518e13)
-"></code>
+<code><img title="React" height="25" src="https://github.com/Njihia413/Njihia413/assets/70540294/2f9f06b4-432e-44f8-9db4-1895c2681e27"></code>
 <code><img title="Bootstrap" height="25" src="https://img.icons8.com/color/512/bootstrap.png"></code>
 <code><img title="Ruby" height="25" src="https://img.icons8.com/color/512/ruby-programming-language.png"></code>
 <code><img title="Ruby on Rails" height="25" src="https://img.icons8.com/windows/512/ruby-on-rails.png"></code>
 <code><img title="MySQL" height="25" src="https://img.icons8.com/fluency/512/mysql-logo.png"></code>
 <code><img title="Git" height="25" src="https://img.icons8.com/color/512/git.png"></code>
-<code><img title="Python" height="25" src="![image](https://github.com/Njihia413/Njihia413/assets/70540294/126bfccb-2a77-4751-99c1-5c9f33df2b35)
-"></code>
-<code><img title="Figma" height="25" src="https://icons8.com/icon/512/figma.png"></code>
+<code><img title="Python" height="25" src="https://github.com/Njihia413/Njihia413/assets/70540294/5d32bef0-3f0f-4b30-80d6-a846fcabc1e0">
+</code>
+<code><img title="Figma" height="25" src="https://github.com/Njihia413/Njihia413/assets/70540294/ce84b4cd-2376-4bf7-bd2d-bed53264590a"></code>
 </p>
-<img title="Python" height="25" src="https://github.com/Njihia413/Njihia413/assets/70540294/5d32bef0-3f0f-4b30-80d6-a846fcabc1e0">
+
+
 
 <!--
 **Njihia413/Njihia413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
