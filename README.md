@@ -37,8 +37,8 @@
 <code><img title="Figma" height="32" src="https://github.com/Njihia413/Njihia413/assets/70540294/ce84b4cd-2376-4bf7-bd2d-bed53264590a"></code>
 </p>
 
-<h2>⚡ Stats</h2>
-[![Joanne Gitari's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=joeygitari&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+### :fire: My Stats :
+[![Maureen Njihia's GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Njihia413&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Maureen Njihia's Github Stats-Light](https://github-readme-stats.vercel.app/api?username=Njihia413&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
