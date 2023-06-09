@@ -38,7 +38,7 @@
 </p>
 
 <h2>⚡ Stats</h2>
-[![Maureen Njihia's Github Stats-Dark](https://github-readme-stats.vercel.app/api?username=Njihia413&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Maureen Njihia's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Njihia413&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Maureen Njihia's Github Stats-Light](https://github-readme-stats.vercel.app/api?username=Njihia413&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
