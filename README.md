@@ -21,7 +21,8 @@
  &nbsp;&nbsp;
 <a href="https://twitter.com/Njihia413"><img height="30" width="30" src="https://cdn.simpleicons.org/twitter/1DA1F2" /></a>
 
-<h2>Skill Set</h2><br>
+<h2>⚡ Skill Set:</h2>
+<br>
 <p>
 <img title="HTML5" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/c50c1223-bc97-4ce7-906a-4d4625ba5fda">
    &nbsp;&nbsp;
@@ -53,6 +54,7 @@
 </p>
 
 ### :fire: My Stats :
+<br>
 [![Maureen Njihia's GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Njihia413&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 [![Maureen Njihia's Github Stats-Light](https://github-readme-stats.vercel.app/api?username=Njihia413&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
