@@ -17,21 +17,21 @@
 <h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/maureen-njihia-9812931ab"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>
  &nbsp;&nbsp;
-<a href="mailto:developer.njihia@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>
+<a href="mailto:developer.njihia@gmail.com"><img height="20" width="20" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>
 &nbsp;&nbsp;
-<a href="https://twitter.com/Njihia413"><img height="32" width="32" src="https://cdn.simpleicons.org/twitter/1DA1F2" /></a>
+<a href="https://twitter.com/Njihia413"><img height="20" width="20" src="https://cdn.simpleicons.org/twitter/1DA1F2" /></a>
 
 <h2>Skill Set</h2><br>
 <p>
 <img title="HTML5" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/c50c1223-bc97-4ce7-906a-4d4625ba5fda">
 <img title="CSS3" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/a7ad154e-71ec-4095-a642-a832adec32a5">
-<img title="Javascript" height="45" width="45" src="https://cdn.simpleicons.org/javascript/F7DF1E">
-<img title="React" height="45" width="45" src="https://cdn.simpleicons.org/react/61DAFB">
+<img title="Javascript" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/13e7793a-82ee-4cf4-8b70-19d18cbc2c50">
+<img title="React" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/351131da-89b2-4c87-8718-93b95928bf47">
 <img title="Bootstrap" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/9347eb31-be7d-4c26-9356-47f7b881b4db">
 <img title="Ruby" height="45" width="45" src="https://img.icons8.com/color/512/ruby-programming-language.png">
-<img title="Ruby on Rails" height="45" width="45" src="https://cdn.simpleicons.org/rubyonrails/CC0000">
-<img title="MySQL" height="45" width="45" src="https://cdn.simpleicons.org/mysql/4479A1">
-<img title="Git" height="45" width="45" src="https://cdn.simpleicons.org/git/F05032">
+<img title="Ruby on Rails" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/da461a00-dcf1-4cbd-b6d0-60b472d6270c">
+<img title="MySQL" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/1f2b726b-62b1-45b1-b34c-03c2c94169a1">
+<img title="Git" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/de1b9697-af45-4817-b472-ea0fe97c79b3">
 <img title="Python" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/6670e5f0-9b27-4a1d-9903-048e46fadf88">
 </code>
 <img title="Figma"height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/ec2b49ec-4073-432e-a46a-98ab933041c6">
