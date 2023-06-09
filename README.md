@@ -4,11 +4,19 @@
   </a>
 </h1>
 <h3>About me:</h3>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/NgurY1o4z080Jfoyzw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/transparent-NgurY1o4z080Jfoyzw">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+  <iframe src="https://giphy.com/embed/NgurY1o4z080Jfoyzw" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+
 - 🔭 Software Developer based in Nairobi, Kenya
+<br>
 - 🌱 I’m currently learning everything 🤣
+<br>
 - 👯 I’m looking to collaborate on software projects
+<br>
 - ⚡ Fun fact: I'm a dancer
+<br>
+
 <h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/maureen-njihia-9812931ab"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>
  &nbsp;&nbsp;
