@@ -23,7 +23,7 @@
 
 <h2>Skill Set</h2><br>
 <p>
-<img title="HTML5" height="32" width="32" src="https://cdn.simpleicons.org/html5/E34F26">
+<img title="HTML5" height="45" width="45" src="https://cdn.simpleicons.org/html5/E34F26">
 <img title="CSS3" height="32" src="https://img.icons8.com/color/512/css3.png">
 <img title="Javascript" height="32" src="https://img.icons8.com/color/512/javascript.png">
 <img title="React" height="32" src="https://github.com/Njihia413/Njihia413/assets/70540294/2f9f06b4-432e-44f8-9db4-1895c2681e27">
