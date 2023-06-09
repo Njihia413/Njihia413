@@ -23,18 +23,18 @@
 
 <h2>Skill Set</h2><br>
 <p>
-<code><img title="HTML5" height="32" src="https://github.com/iamkibeh/HalemoGPA/raw/main/images/html5.svg"></code>
-<code><img title="CSS3" height="32" src="https://img.icons8.com/color/512/css3.png"></code>
-<code><img title="Javascript" height="32" src="https://img.icons8.com/color/512/javascript.png"></code>
-<code><img title="React" height="32" src="https://github.com/Njihia413/Njihia413/assets/70540294/2f9f06b4-432e-44f8-9db4-1895c2681e27"></code>
-<code><img title="Bootstrap" height="32" src="https://img.icons8.com/color/512/bootstrap.png"></code>
-<code><img title="Ruby" height="32" src="https://img.icons8.com/color/512/ruby-programming-language.png"></code>
-<code><img title="Ruby on Rails" height="32" src="https://img.icons8.com/windows/512/ruby-on-rails.png"></code>
-<code><img title="MySQL" height="32" src="https://img.icons8.com/fluency/512/mysql-logo.png"></code>
-<code><img title="Git" height="32" src="https://img.icons8.com/color/512/git.png"></code>
-<code><img title="Python" height="32" src="https://github.com/Njihia413/Njihia413/assets/70540294/5d32bef0-3f0f-4b30-80d6-a846fcabc1e0">
+<img title="HTML5" height="32" src="https://github.com/iamkibeh/HalemoGPA/raw/main/images/html5.svg">
+<img title="CSS3" height="32" src="https://img.icons8.com/color/512/css3.png">
+<img title="Javascript" height="32" src="https://img.icons8.com/color/512/javascript.png">
+<img title="React" height="32" src="https://github.com/Njihia413/Njihia413/assets/70540294/2f9f06b4-432e-44f8-9db4-1895c2681e27">
+<img title="Bootstrap" height="32" src="https://img.icons8.com/color/512/bootstrap.png">
+<img title="Ruby" height="32" src="https://img.icons8.com/color/512/ruby-programming-language.png">
+<img title="Ruby on Rails" height="32" src="https://img.icons8.com/windows/512/ruby-on-rails.png">
+<img title="MySQL" height="32" src="https://img.icons8.com/fluency/512/mysql-logo.png">
+<img title="Git" height="32" src="https://img.icons8.com/color/512/git.png">
+<img title="Python" height="32" src="https://github.com/Njihia413/Njihia413/assets/70540294/5d32bef0-3f0f-4b30-80d6-a846fcabc1e0">
 </code>
-<code><img title="Figma" height="32" src="https://github.com/Njihia413/Njihia413/assets/70540294/ce84b4cd-2376-4bf7-bd2d-bed53264590a"></code>
+<img title="Figma" height="32" src="https://github.com/Njihia413/Njihia413/assets/70540294/ce84b4cd-2376-4bf7-bd2d-bed53264590a">
 </p>
 
 ### :fire: My Stats :
