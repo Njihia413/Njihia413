@@ -43,6 +43,12 @@
    &nbsp;&nbsp;
 <img title="Python" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/6670e5f0-9b27-4a1d-9903-048e46fadf88">
    &nbsp;&nbsp;
+<img title="PHP" height="45" width="45" src="https://cdn.simpleicons.org/php">
+   &nbsp;&nbsp;
+  <img title="C" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/89b1f7fc-8cfe-4bb0-931b-7e485e5589e4">
+   &nbsp;&nbsp;
+  <img title="C++" height="45" width="45" src="https://cdn.simpleicons.org/c++/E61845">
+   &nbsp;&nbsp;
 <img title="Figma"height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/ec2b49ec-4073-432e-a46a-98ab933041c6">
 </p>
 
