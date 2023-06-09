@@ -23,18 +23,18 @@
 
 <h2>Skill Set</h2><br>
 <p>
-<img title="HTML5" height="45" width="45" src="https://cdn.simpleicons.org/html5/E34F26">
-<img title="CSS3" height="45" width="45" src="https://cdn.simpleicons.org/css3/1572B6">
+<img title="HTML5" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/c50c1223-bc97-4ce7-906a-4d4625ba5fda">
+<img title="CSS3" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/a7ad154e-71ec-4095-a642-a832adec32a5">
 <img title="Javascript" height="45" width="45" src="https://cdn.simpleicons.org/javascript/F7DF1E">
 <img title="React" height="45" width="45" src="https://cdn.simpleicons.org/react/61DAFB">
-<img title="Bootstrap" height="45" width="45" src="https://cdn.simpleicons.org/bootstrap/7952B3">
-<img title="Ruby" height="45" width="45" src="https://cdn.simpleicons.org/ruby/CC342D">
+<img title="Bootstrap" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/9347eb31-be7d-4c26-9356-47f7b881b4db">
+<img title="Ruby" height="45" width="45" src="https://img.icons8.com/color/512/ruby-programming-language.png">
 <img title="Ruby on Rails" height="45" width="45" src="https://cdn.simpleicons.org/rubyonrails/CC0000">
 <img title="MySQL" height="45" width="45" src="https://cdn.simpleicons.org/mysql/4479A1">
 <img title="Git" height="45" width="45" src="https://cdn.simpleicons.org/git/F05032">
-<img title="Python" height="45" width="45" src="https://cdn.simpleicons.org/python/3776AB">
+<img title="Python" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/6670e5f0-9b27-4a1d-9903-048e46fadf88">
 </code>
-<img title="Figma"height="45" width="45" src="https://cdn.simpleicons.org/figma/3776AB">
+<img title="Figma"height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/ec2b49ec-4073-432e-a46a-98ab933041c6">
 </p>
 
 ### :fire: My Stats :
