@@ -57,9 +57,6 @@
   <a href="https://git.io/streak-stats">
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Njihia413&theme=dark&background=000000" alt="GitHub Streak">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njihia413&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="max-width: 100%;">
-  </a>
 
 [![Maureen Njihia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Njihia413&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
