@@ -55,11 +55,13 @@
 
 ### My Github Stats
 
+## My Github Stats
+
 <div style="display: flex; justify-content: space-between;">
-    <a href="https://git.io/streak-stats">
+    <a href="https://git.io/streak-stats" style="margin-right: 10px;">
         <img src="http://github-readme-streak-stats.herokuapp.com?user=Njihia413&theme=dark&background=000000" alt="GitHub Streak" style="max-width: 45%;">
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njihia413&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="max-width: 45%;">
     </a>
 </div>
