@@ -53,13 +53,24 @@
 <img title="Figma"height="40" width="40" src="https://github.com/Njihia413/Njihia413/assets/70540294/ec2b49ec-4073-432e-a46a-98ab933041c6">
 </p>
 
-### :fire: My Stats :
+### My Github Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Njihia413&theme=dark&background=000000)](https://git.io/streak-stats)
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://git.io/streak-stats">
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=Njihia413&theme=dark&background=000000" alt="GitHub Streak" style="max-width: 45%;">
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njihia413&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="max-width: 45%;">
+    </a>
+</div>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Njihia413&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### My Wakatime Stats
 
-[![Maureen Njihia's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Njihia413)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://wakatime.com/@Njihia413">
+  <img  align="left" src = "https://wakatime.com/insights/image/days/last_year.png">
+</a>
+
+[![Maureen Njihia's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Njihia413&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Njihia413/Njihia413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
