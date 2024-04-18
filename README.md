@@ -21,7 +21,7 @@
  &nbsp;&nbsp;
 <a href="https://twitter.com/Njihia413"><img height="30" width="30" src="https://cdn.simpleicons.org/twitter/1DA1F2" /></a>
 
-<h2>⚡ Skill Set:</h2>
+<h2>Skill Set</h2>
 <br>
 <p>
 <img title="HTML5" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/c50c1223-bc97-4ce7-906a-4d4625ba5fda">
@@ -53,6 +53,8 @@
 <img title="Figma"height="40" width="40" src="https://github.com/Njihia413/Njihia413/assets/70540294/ec2b49ec-4073-432e-a46a-98ab933041c6">
 </p>
 
+---
+
 ### My Github Stats
 <table>
   <tr>
@@ -73,6 +75,8 @@
 </p>
 
 <br />
+
+---
 
 ### My Wakatime Stats
 
