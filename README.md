@@ -5,9 +5,9 @@
 </h1>
 
 <h3>About me:</h3>
-- 🔭 Software Developer based in Nairobi, Kenya
+- 🔭 Software Engineer based in Nairobi, Kenya
 <br>
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Flutter 😊
 <br>
 - 👯 I’m looking to collaborate on software projects
 <br>
@@ -54,13 +54,12 @@
 </p>
 
 ### :fire: My Stats :
-[![Maureen Njihia's GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Njihia413&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![Maureen Njihia's Github Stats-Light](https://github-readme-stats.vercel.app/api?username=Njihia413&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Njihia413&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Njihia413&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Maureen Njihia's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Njihia413)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Njihia413/Njihia413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
