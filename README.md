@@ -54,11 +54,25 @@
 </p>
 
 ### My Github Stats
-  <a href="https://git.io/streak-stats">
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Njihia413&theme=dark&background=000000" alt="GitHub Streak">
-  </a>
+<table>
+  <tr>
+    <td>
+      <!--Streak-->
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Njihia413&show_icons=true&locale=en&layout=compact&theme=dark"/>
+    </td>
+    <td>
+      <!--Stats-->
+      <img align="left" src="https://readme-stats.clckblog.space/api?username=Njihia413&show_icons=true&count_private=true&theme=dark" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
-[![Maureen Njihia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Njihia413&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <!--Languages -->
+  <img align="top" src="https://readme-stats.clckblog.space/api/top-langs/?username=Njihia413&langs_count=8&layout=compact&theme=dark&hide=jupyter%20notebook"/>
+</p>
+
+<br />
 
 ### My Wakatime Stats
 
