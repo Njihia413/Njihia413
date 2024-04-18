@@ -57,8 +57,8 @@
 
 ## My Github Stats
 
-<div style="display: flex; justify-content: space-between; margin-right: "10px";>
-        <a href="https://git.io/streak-stats">
+<div style="display: flex;">
+        <a href="https://git.io/streak-stats" style="margin-right: 10px;">
             <img src="http://github-readme-streak-stats.herokuapp.com?user=Njihia413&theme=dark&background=000000" alt="GitHub Streak" style="max-width: 100%;">
         </a>
         <a href="https://github.com/anuraghazra/github-readme-stats">
