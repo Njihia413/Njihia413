@@ -58,18 +58,22 @@
 ## My Github Stats
 
 <div style="display: flex; justify-content: space-between;">
-    <a href="https://git.io/streak-stats" style="margin-right: 10px;">
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=Njihia413&theme=dark&background=000000" alt="GitHub Streak" style="max-width: 45%;">
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-left: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njihia413&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="max-width: 45%;">
-    </a>
+    <div style="margin-right: 10px;">
+        <a href="https://git.io/streak-stats">
+            <img src="http://github-readme-streak-stats.herokuapp.com?user=Njihia413&theme=dark&background=000000" alt="GitHub Streak" style="max-width: 100%;">
+        </a>
+    </div>
+    <div style="margin-left: 10px;">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Njihia413&layout=compact&theme=vision-friendly-dark" alt="Top Languages" style="max-width: 100%;">
+        </a>
+    </div>
 </div>
 
 ### My Wakatime Stats
 
 <a href="https://wakatime.com/@Njihia413">
-  <img  align="left" src = "https://wakatime.com/insights/image/days/last_year.png">
+  <img  align="left" src = "https://github.com/Njihia413/Njihia413/blob/main/last_year.png">
 </a>
 
 [![Maureen Njihia's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Njihia413&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
