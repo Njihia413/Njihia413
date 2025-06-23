@@ -80,6 +80,10 @@
 
 ### My Wakatime Stats
 
+<a href="https://wakatime.com/@Njihia413">
+  <img  align="left" src = "https://wakatime.com/share/@Njihia413/2ac72131-1a72-4df5-8fe1-a56a54d46780.svg">
+</a>
+
 [![Maureen Njihia's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Njihia413&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
