@@ -1,15 +1,15 @@
 ### Hi there 👋
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&size=30&pause=1000&color=F73D61&center=true&vCenter=true&width=435&lines=Nice+to+see+you+👋;I'm+Maureen😊" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F73D61&center=true&vCenter=true&width=435&lines=Nice+to+see+you+👋;I'm+Maureen😊" alt="Typing SVG" />
   </a>
 </h1>
 
 <h3>About me:</h3>
 - 🔭 Software Engineer based in Nairobi, Kenya
 <br>
-- 🌱 I’m currently learning Flutter 😊
+- 🌱 I'm currently learning Flutter 😊
 <br>
-- 👯 I’m looking to collaborate on software projects
+- 👯 I'm looking to collaborate on software projects
 <br>
 - ⚡ Fun fact: I'm a dancer
 <br>
@@ -24,33 +24,35 @@
 <h2>Skill Set</h2>
 <br>
 <p>
-<img title="HTML5" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/c50c1223-bc97-4ce7-906a-4d4625ba5fda">
+<img title="Next.js" height="45" width="45" src="https://img.icons8.com/fluency-systems-filled/512/nextjs.png">
    &nbsp;&nbsp;
-<img title="CSS3" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/a7ad154e-71ec-4095-a642-a832adec32a5">
+<img title="React" height="45" width="45" src="https://img.icons8.com/officel/512/react.png">
    &nbsp;&nbsp;
-<img title="Javascript" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/13e7793a-82ee-4cf4-8b70-19d18cbc2c50">
+<img title="Angular" height="45" width="45" src="https://img.icons8.com/color/512/angularjs.png">
    &nbsp;&nbsp;
-<img title="React" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/351131da-89b2-4c87-8718-93b95928bf47">
+<img title="TypeScript" height="45" width="45" src="https://img.icons8.com/color/512/typescript.png">
    &nbsp;&nbsp;
-<img title="Bootstrap" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/9347eb31-be7d-4c26-9356-47f7b881b4db">
+<img title="Tailwind CSS" height="45" width="45" src="https://img.icons8.com/color/512/tailwindcss.png">
    &nbsp;&nbsp;
-<img title="Ruby" height="45" width="45" src="https://img.icons8.com/color/512/ruby-programming-language.png">
+<img title="Material UI" height="45" width="45" src="https://img.icons8.com/color/512/material-ui.png">
    &nbsp;&nbsp;
-<img title="Ruby on Rails" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/da461a00-dcf1-4cbd-b6d0-60b472d6270c">
+<img title="Python" height="45" width="45" src="https://img.icons8.com/color/512/python.png">
    &nbsp;&nbsp;
-<img title="MySQL" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/1f2b726b-62b1-45b1-b34c-03c2c94169a1">
+<img title="Node.js" height="45" width="45" src="https://img.icons8.com/color/512/nodejs.png">
    &nbsp;&nbsp;
-<img title="Git" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/de1b9697-af45-4817-b472-ea0fe97c79b3">
+<img title="Java" height="45" width="45" src="https://img.icons8.com/color/512/java-coffee-cup-logo.png">
    &nbsp;&nbsp;
-<img title="Python" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/6670e5f0-9b27-4a1d-9903-048e46fadf88">
+<img title="Flask" height="45" width="45" src="https://img.icons8.com/ios-filled/512/flask.png">
    &nbsp;&nbsp;
-<img title="PHP" height="45" width="45" src="https://cdn.simpleicons.org/php">
+<img title="AWS" height="45" width="45" src="https://img.icons8.com/color/512/amazon-web-services.png">
    &nbsp;&nbsp;
-  <img title="C" height="45" width="45" src="https://github.com/Njihia413/Njihia413/assets/70540294/89b1f7fc-8cfe-4bb0-931b-7e485e5589e4">
+<img title="MySQL" height="45" width="45" src="https://img.icons8.com/color/512/mysql-logo.png">
    &nbsp;&nbsp;
-  <img title="C++" height="40" width="40" src="https://cdn.simpleicons.org/c++/E61845">
+<img title="PostgreSQL" height="45" width="45" src="https://img.icons8.com/color/512/postgreesql.png">
    &nbsp;&nbsp;
-<img title="Figma"height="40" width="40" src="https://github.com/Njihia413/Njihia413/assets/70540294/ec2b49ec-4073-432e-a46a-98ab933041c6">
+<img title="Firebase" height="45" width="45" src="https://img.icons8.com/color/512/firebase.png">
+   &nbsp;&nbsp;
+<img title="Figma" height="45" width="45" src="https://img.icons8.com/color/512/figma.png">
 </p>
 
 ---
@@ -89,4 +91,3 @@ Here are some ideas to get you started:
 
 
 -->
-
